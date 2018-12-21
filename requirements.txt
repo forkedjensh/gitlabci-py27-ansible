@@ -10,7 +10,6 @@ cryptography
 decorator
 deprecation
 dnspython
-dogpile.cache<0.7.0
 enum34
 flake8
 idna
@@ -22,7 +21,6 @@ jmespath
 jsonpatch
 jsonpointer
 kerberos
-keystoneauth1
 MarkupSafe
 mccabe
 munch
@@ -30,8 +28,6 @@ netifaces
 ntlm-auth
 openstacksdk
 ordereddict
-os-client-config
-os-service-types
 packaging
 paramiko
 parso
@@ -53,7 +49,6 @@ requests
 requests-kerberos
 requests-ntlm
 requestsexceptions
-shade
 six
 stevedore
 urllib3
